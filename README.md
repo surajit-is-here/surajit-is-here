@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @surajit-is-here
-- 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... DSA, Algorithm, Unix...
+- 👋 Hi, I’m Surajit Das
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning  DSA, Algorithm, Unix, Html, CSS, JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 📫 How to reach me: 
 - email: surajitjack2002@gmail.com
 
 <!---
