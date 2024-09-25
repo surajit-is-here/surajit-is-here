@@ -4,7 +4,9 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
 - <h1 align="center">Hi 👋, I'm Surajit Das</h1>
-<h3 align="center">I am an undergraduate student pursuing Bachelors of Science(B.Sc):Major in Computer Science</h3> 
+<h3 align="center">### Hello, I'm Surajit Das! 👋
+I'm a first-year MCA student at NIT Trichy with a passion for coding, problem-solving, and exploring new technologies. I'm excited to embark on a journey to master the world of software development!
+</h3> 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajit-is-here&label=Profile%20views&color=0e75b6&style=flat" alt="surajit-is-here" /> </p>
